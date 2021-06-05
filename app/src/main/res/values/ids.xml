@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView2" type="id" />
+    <item name="tvcaracteristicasItemDetail" type="id" />
+    <item name="textView3" type="id" />
+    <item name="textView6" type="id" />
+    <item name="tvimgItemDetail" type="id" />
+    <item name="tvDescripcionDetail" type="id" />
+    <item name="btnregresar" type="id" />
+    <item name="tvTituloDetail" type="id" />
+</resources>
